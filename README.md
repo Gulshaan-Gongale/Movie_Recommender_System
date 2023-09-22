@@ -46,4 +46,5 @@ Deploy the trained recommendation system, making it accessible to users. Impleme
 User Testing and Feedback:
 Invite users to test the recommendation system and gather feedback. Monitor user interactions and collect more data for continuous improvement.
 
-Conclusion: Summarize the achievements of the project. Discuss the strengths and limitations of the recommendation system. Reflect on what you've learned during the project. Consider future enhancements or additional features that could be implemented.
+Conclusion: 
+Summarize the achievements of the project. Discuss the strengths and limitations of the recommendation system. Reflect on what you've learned during the project. Consider future enhancements or additional features that could be implemented.
